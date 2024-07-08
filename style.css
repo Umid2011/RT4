@@ -1,0 +1,58 @@
+i{
+    font-size: 60px;
+    color: red;
+    margin: 0px 150px;
+}
+p{
+    margin: -40px 370px;
+}
+span{
+    width: 65px;
+    height: 35px;
+    padding: 10px;
+    background-color: orange;
+    color:  white;
+}
+.div2{
+    background-color: rgb(118, 118, 248);
+    width: 250vh;
+    height: 400px;
+    margin: 80px 0px
+}
+h1{
+    color: white;
+    padding: 100px 370px;
+}
+.p1{
+    color: white;
+    margin: -100px 320px;
+}
+.i1{
+    margin: 150px 300px;
+}
+.i2{
+    margin: 30px -250px;
+}
+.i3{
+    margin: 30px 300px;
+}
+input{
+    margin: 150px 50px;
+    padding: 5px;
+    border: none;
+}
+button{
+    background-color: orange;
+    padding: 7px;
+    border: none;
+    margin: 0px -280px;
+}
+.div1{
+    background: url(https://m.media-amazon.com/images/I/61Qe0euJJZL.jpg);
+    width: 350px;
+    height: 350px;
+    background-color: rgb(118, 118, 248);;
+    margin: -150px 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
